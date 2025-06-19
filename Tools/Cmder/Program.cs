@@ -1,8 +1,21 @@
-﻿namespace Cmder;
-
+﻿namespace Cmder;d
+sf
 static class Program
 {
 	private static int PauseMs;
+f
+f
+	static IObservable<TResult> Using<TResult, TResource>(
+		Func<TResource> resourceFactory,
+		Func<TResource, IObservable<TResult>> observableFactory
+	) where TResource : IDisposable;
+
+	static IObservable<TResult> Using<TResult, TResource>(
+    	Func<CancellationToken, Task<TResource>> resourceFactoryAsync,
+    	Func<TResource, CancellationToken, Task<IObservable<TResult>>> observableFactoryAsync
+	) where TResource : IDisposable
+
+
 
 	public static int Main(string[] args)
 	{

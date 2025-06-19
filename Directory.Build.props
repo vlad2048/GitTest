@@ -1,18 +1,17 @@
 <Project>
+
   <PropertyGroup>
     <LangVersion>preview</LangVersion>
     <EnablePreviewFeatures>True</EnablePreviewFeatures>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DebugType>embedded</DebugType>
-    
-    <Version>0.0.1</Version>
-    
+    <Version>0.0.48</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>vlad2048</Authors>
-    
     <Description>LINQPad utility functions</Description>
     <PackageTags>LINQPad</PackageTags>
     <PackageProjectUrl>https://github.com/vlad2048/LINQPadExtras</PackageProjectUrl>
   </PropertyGroup>
+
 </Project>
