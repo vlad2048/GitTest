@@ -6,12 +6,12 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DebugType>embedded</DebugType>
-    <Version>0.0.53</Version>
+    <Version>0.0.1</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>vlad2048</Authors>
-    <Description>LINQPad utility functions</Description>
-    <PackageTags>LINQPad</PackageTags>
-    <PackageProjectUrl>https://github.com/vlad2048/LINQPadExtras</PackageProjectUrl>
+    <Description>GitTest</Description>
+    <PackageTags>GitTest</PackageTags>
+    <PackageProjectUrl>https://github.com/vlad2048/GitTest</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
