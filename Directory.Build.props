@@ -1,12 +1,11 @@
 <Project>
 
   <PropertyGroup>
-    <LangVersion>preview</LangVersion>
-    <EnablePreviewFeatures>True</EnablePreviewFeatures>
+    <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <DebugType>embedded</DebugType>
-    <Version>0.0.5</Version>
+    <Version>0.0.6</Version>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Authors>vlad2048</Authors>
     <Description>GitTest</Description>
