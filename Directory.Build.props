@@ -13,6 +13,7 @@
     <PackageTags>GitTest</PackageTags>
     <PackageProjectUrl>https://github.com/vlad2048/GitTest</PackageProjectUrl>
     <AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
   </PropertyGroup>
 
 </Project>
